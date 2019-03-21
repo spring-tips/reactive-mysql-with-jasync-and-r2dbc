@@ -1,4 +1,4 @@
-# Reactive Mysql with Jasync and R2DBC 
+# Reactive MySql with Jasync and R2DBC 
 
 Hi Spring fans! Welcome to another super short mid-season interregnum installment of Spring Tips in which I introduce a *super* preliminary / not-GA version of an R2DBC binding for MySQL by the Jasync SQL project. 
 
